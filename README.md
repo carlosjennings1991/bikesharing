@@ -13,6 +13,8 @@ For this project, we reviewed bike sharing data from the Citi Bikes program in N
 
 ### Results 1: Starting Location
 
+<img src="https://github.com/carlosjennings1991/bikesharing/blob/main/Starting_Location.png">
+
 ### Results 2: Ending Locations
 
 ### Results 3: Checkout Times for Each Bike
