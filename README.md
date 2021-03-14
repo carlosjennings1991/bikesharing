@@ -57,6 +57,10 @@ There is one curious outlier - Wednesday afternoon. For some reason afternoon ri
 
 <img src="https://github.com/carlosjennings1991/bikesharing/blob/main/ride_times_by_gender.png">
 
+This chart shows the above chart, but broken down by gender. A few patterns emerge. Female and Male ride patterns resemble each other, with the male pattern being starker simply as a result of there being more men bike riders. However, those of unknown gender present a different pattern, with slightly more rides ocurring during the weekend vs. weekdays.
+
+<br>
+
 ### Results 7: User Trips per day, per Gender
 
 <img src="https://github.com/carlosjennings1991/bikesharing/blob/main/trips_by_gender_by_user_type.png">
