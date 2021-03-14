@@ -76,3 +76,6 @@ This chart shows the above chart, but broken down by gender. A few patterns emer
 ### Results 7: User Trips per day, per Gender
 
 <img src="https://github.com/carlosjennings1991/bikesharing/blob/main/trips_by_gender_by_user_type.png">
+
+Here we see the breakdown of rides, by gender but further differentiated by user type i.e subscriber or non-subscriber. 
+We can see than subscribers are much more likely to be men. Women have a moderate amount of subscribers and those of Unknown gender show very few subscribers.
