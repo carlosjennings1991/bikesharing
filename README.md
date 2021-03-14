@@ -31,9 +31,17 @@ Similar to the previous map, but showing ending locations. These closely mirror 
 
 <img src="https://github.com/carlosjennings1991/bikesharing/blob/main/Rides_By_Duration.png">
 
+Based on the above, we can see that the overwhelming majority of bike trips were short in duration i.e less than 20 minutes. 
+
+<br>
+
 ### Results 4: Checkout Times for Each Bike, by Gender
 
 <img src="https://github.com/carlosjennings1991/bikesharing/blob/main/Rides_by_Bike_by_Gender.png">
+
+Each of the three tracked genders (Male, Female, Unknown)
+
+<br>
 
 ### Results 5: Bike Trips per day, per hour.
 
