@@ -25,6 +25,8 @@ For this project, we reviewed bike sharing data from the Citi Bikes program in N
 
 ### Results 4: Checkout Times for Each Bike, by Gender
 
+<img src="https://github.com/carlosjennings1991/bikesharing/blob/main/Rides_by_Bike_by_Gender.png">
+
 ### Results 5: Bike Trips per day, per hour.
 
 ### Results 6: Bike Trips per day, per hour, per Gender.
