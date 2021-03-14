@@ -79,3 +79,7 @@ This chart shows the above chart, but broken down by gender. A few patterns emer
 
 Here we see the breakdown of rides, by gender but further differentiated by user type i.e subscriber or non-subscriber. 
 We can see than subscribers are much more likely to be men. Women have a moderate amount of subscribers and those of Unknown gender show very few subscribers.
+
+---
+
+### Summary
