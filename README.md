@@ -17,6 +17,8 @@ For this project, we reviewed bike sharing data from the Citi Bikes program in N
 
 ### Results 2: Ending Locations
 
+<img src="https://github.com/carlosjennings1991/bikesharing/blob/main/Ending_Locations.png">
+
 ### Results 3: Checkout Times for Each Bike
 
 ### Results 4: Checkout Times for Each Bike, by Gender
