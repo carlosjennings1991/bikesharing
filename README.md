@@ -47,6 +47,12 @@ Each of the three tracked genders (Male, Female, Unknown) broadly show similar p
 
 <img src="https://github.com/carlosjennings1991/bikesharing/blob/main/Bike_trips_per_day_per_hour.png">
 
+The amount of bike rides per day show two general trends. First and foremost, bike rides during weekdays closely parallel rush hour commute times i.e morning and mid-afternoon. Conversely, the weekend there are no morning and afternoon spikes, but rather slowly increase towards noon-2pm. 
+
+There is one curious outlier - Wednesday afternoon. For some reason afternoon rides on Wednesday are much fewer relative to other weekday afternoons. 
+
+<br>
+
 ### Results 6: Bike Trips per day, per hour, per Gender.
 
 <img src="https://github.com/carlosjennings1991/bikesharing/blob/main/ride_times_by_gender.png">
