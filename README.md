@@ -39,7 +39,7 @@ Based on the above, we can see that the overwhelming majority of bike trips were
 
 <img src="https://github.com/carlosjennings1991/bikesharing/blob/main/Rides_by_Bike_by_Gender.png">
 
-Each of the three tracked genders (Male, Female, Unknown)
+Each of the three tracked genders (Male, Female, Unknown) broadly show similar patterns. Most trips are still short in duration, however, Female and Unknown bikers ride durations slow more slowly relative to Male bike rides. 
 
 <br>
 
