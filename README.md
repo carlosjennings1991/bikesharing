@@ -17,11 +17,15 @@ For this project, we reviewed bike sharing data from the Citi Bikes program in N
 
 In the map above, we can see that most bike starts occur in the dense, tourist & commercial centers of Manhattan, so Central Park-South all the way down to Wall Street. 
 
+<br>
+
 ### Results 2: Ending Locations
 
 <img src="https://github.com/carlosjennings1991/bikesharing/blob/main/Ending_Locations.png">
 
 Similar to the previous map, but showing ending locations. These closely mirror start locations albeit with minute differences, however the overall pattern is clearly the same. 
+
+<br>
 
 ### Results 3: Checkout Times for Each Bike
 
