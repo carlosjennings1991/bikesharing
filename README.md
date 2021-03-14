@@ -19,6 +19,8 @@ In the map above, we can see that most bike starts occur in the dense, tourist &
 
 <br>
 
+---
+
 ### Results 2: Ending Locations
 
 <img src="https://github.com/carlosjennings1991/bikesharing/blob/main/Ending_Locations.png">
@@ -26,6 +28,8 @@ In the map above, we can see that most bike starts occur in the dense, tourist &
 Similar to the previous map, but showing ending locations. These closely mirror start locations albeit with minute differences, however the overall pattern is clearly the same. 
 
 <br>
+
+---
 
 ### Results 3: Checkout Times for Each Bike
 
@@ -35,6 +39,8 @@ Based on the above, we can see that the overwhelming majority of bike trips were
 
 <br>
 
+---
+
 ### Results 4: Checkout Times for Each Bike, by Gender
 
 <img src="https://github.com/carlosjennings1991/bikesharing/blob/main/Rides_by_Bike_by_Gender.png">
@@ -42,6 +48,8 @@ Based on the above, we can see that the overwhelming majority of bike trips were
 Each of the three tracked genders (Male, Female, Unknown) broadly show similar patterns. Most trips are still short in duration, however, Female and Unknown bikers ride durations slow more slowly relative to Male bike rides. 
 
 <br>
+
+---
 
 ### Results 5: Bike Trips per day, per hour.
 
@@ -53,6 +61,8 @@ There is one curious outlier - Wednesday afternoon. For some reason afternoon ri
 
 <br>
 
+---
+
 ### Results 6: Bike Trips per day, per hour, per Gender.
 
 <img src="https://github.com/carlosjennings1991/bikesharing/blob/main/ride_times_by_gender.png">
@@ -60,6 +70,8 @@ There is one curious outlier - Wednesday afternoon. For some reason afternoon ri
 This chart shows the above chart, but broken down by gender. A few patterns emerge. Female and Male ride patterns resemble each other, with the male pattern being starker simply as a result of there being more men bike riders. However, those of unknown gender present a different pattern, with slightly more rides ocurring during the weekend vs. weekdays.
 
 <br>
+
+---
 
 ### Results 7: User Trips per day, per Gender
 
