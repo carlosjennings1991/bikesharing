@@ -83,3 +83,10 @@ We can see than subscribers are much more likely to be men. Women have a moderat
 ---
 
 ### Summary
+
+Based on our analysis of New York's data, a few key takeaways emerge. 
+
+1. Men are much more likely to be subscribers (and therefore generate consistent and predictable revenue). 
+2. Commercial and Tourist centers are by far the most popular ending and start destinations. The primarily residential areas of NYC - upper Manhattan and the outer Boroughs show much less activity. 
+
+For the purposes of Des Moines Iowa, this means concentrating stations downtown, along the river, the State Capitol (east of Downtown) and Drake University. 
