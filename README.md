@@ -90,3 +90,5 @@ Based on our analysis of New York's data, a few key takeaways emerge.
 2. Commercial and Tourist centers are by far the most popular ending and start destinations. The primarily residential areas of NYC - upper Manhattan and the outer Boroughs show much less activity. 
 
 For the purposes of Des Moines Iowa, this means concentrating stations downtown, along the river, the State Capitol (east of Downtown) and Drake University. 
+
+Of course, New York City and Des Moines are very different cities. While some trends are likely to transfer, others may surprise us. For instance, how many of the bike riders were tourists? How many of them were students? What was the average distance of the bike ride? If we had data on those three variables, we could more precisely alter the Des Moines expansion to fit Des Moines' built environment. 
